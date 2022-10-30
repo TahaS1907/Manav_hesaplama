@@ -1,2 +1,2 @@
-# Manav_hesaplama
+# greengrocer calculation
 [Patika](www.patika.dev)
